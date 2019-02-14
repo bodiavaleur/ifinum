@@ -1,13 +1,13 @@
 {
   "main.css": "/ifinum/static/css/main.d7b8b3f9.chunk.css",
-  "main.js": "/ifinum/static/js/main.51b757ec.chunk.js",
-  "main.js.map": "/ifinum/static/js/main.51b757ec.chunk.js.map",
+  "main.js": "/ifinum/static/js/main.9c3472aa.chunk.js",
+  "main.js.map": "/ifinum/static/js/main.9c3472aa.chunk.js.map",
   "static/js/1.4487e7c3.chunk.js": "/ifinum/static/js/1.4487e7c3.chunk.js",
   "static/js/1.4487e7c3.chunk.js.map": "/ifinum/static/js/1.4487e7c3.chunk.js.map",
   "runtime~main.js": "/ifinum/static/js/runtime~main.6ccec526.js",
   "runtime~main.js.map": "/ifinum/static/js/runtime~main.6ccec526.js.map",
   "static/css/main.d7b8b3f9.chunk.css.map": "/ifinum/static/css/main.d7b8b3f9.chunk.css.map",
   "index.html": "/ifinum/index.html",
-  "precache-manifest.4335e8210dfe69278045e2fe5516f829.js": "/ifinum/precache-manifest.4335e8210dfe69278045e2fe5516f829.js",
+  "precache-manifest.f3a47796f724d2c78317ec7cb28075b9.js": "/ifinum/precache-manifest.f3a47796f724d2c78317ec7cb28075b9.js",
   "service-worker.js": "/ifinum/service-worker.js"
 }
